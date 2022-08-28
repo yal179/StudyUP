@@ -15,22 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Book_ZeroStudyC++.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="BaseType.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="BaseType.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="enum_Info.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="operator_Info.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
